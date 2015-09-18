@@ -1,3 +1,7 @@
+/**
+@author:liting
+@time:20150918
+**/
 public class SendTest{
  public static void main(String[] args){
   SendFactory factory = new SendFactory();
